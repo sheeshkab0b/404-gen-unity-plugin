@@ -54,7 +54,7 @@ Make sure the rendering backend is now set to
 1. Go to **Window > 404-GEN 3D Generator** to open the generation window.
 2. Type your **Text Prompt** or Import your **3D Image Prompt** and click **Generate**. Each generation should take **1 to 2 minutes**.
 
-<img alt="Enable unsafe code" src="./Documentation~/Images/Prompts.png">
+<img width="602" height="919" alt="Generate 2D Github" src="https://github.com/user-attachments/assets/0712c3ef-3399-4443-81e1-92a9fb933fad" />
 
 The 404-GEN 3D Generator window tracks the progress of generating the models for prompts.
 Once the prompt has been enqueued, it waits on the backend to complete the generation.
